@@ -1,4 +1,4 @@
 window.OSTL_SUPABASE = {
-  url: "PASTE_YOUR_SUPABASE_PROJECT_URL_HERE",
-  anonKey: "PASTE_YOUR_SUPABASE_ANON_KEY_HERE"
+  url: "https://tqitfnmaoagabaugngnx.supabase.co/rest/v1/",
+  anonKey: "sb_publishable_YzxE5jAIbra15_I1G95YRg_11O8Qxkr" 
 };
